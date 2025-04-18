@@ -93,10 +93,10 @@ Two additional screens show the concept of:
 We created two separate prototypes to show both content flow and UI interaction:
 
 - 📱 **Mobile UI Interaction (Vertical Screen with Dynamic Comments)**  
-  👉 [View Vertical UI Prototype](https://www.figma.com/proto/vrJyIqP2HhretM1a0C7Clu/Gauri-Jagtap_3?node-id=13-1754&t=xaMqAXUN1VMwVrWI-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+  👉 [View Vertical UI Prototype](https://www.figma.com/proto/vrJyIqP2HhretM1a0C7Clu/Gauri-Jagtap_3?node-id=13-1754&t=nZcIVpEX9mh5HuvX-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 - 🎞️ **Storyboard Prototype (Horizontal Video Flow)**  
-  👉 [View Horizontal Video Prototype](https://www.figma.com/proto/vrJyIqP2HhretM1a0C7Clu/Gauri-Jagtap_3?node-id=13-2281&p=f&t=31onWCvTqoXLZKYx-1&scaling=scale-down&content-scaling=fixed&page-id=13%3A2268)
+  👉 [View Horizontal Video Prototype](https://www.figma.com/proto/vrJyIqP2HhretM1a0C7Clu/Gauri-Jagtap_3?node-id=13-2281&t=4e5q2wlIQHcwMLS7-1&scaling=scale-down&content-scaling=fixed&page-id=13%3A2268)
 
 Both versions work together to represent how smart comments adapt in real-time — one shows **scene-by-scene story progression**, the other shows **actual UI interaction** in a realistic YouTube-like environment.
 
