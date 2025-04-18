@@ -42,11 +42,13 @@ This approach transforms comments from background noise into **emotionally reson
 
 These are the original animation frames used to build the design logic.
 
-![Scene 1](screens/Gauri%20Jagtap_3%20(1)-1.png)  
-![Scene 2](screens/Gauri%20Jagtap_3%20(1)-2.png)  
-![Scene 3](screens/Gauri%20Jagtap_3%20(1)-3.png)  
-![Scene 4](screens/Gauri%20Jagtap_3%20(1)-4.png)  
-![Scene 5](screens/Gauri%20Jagtap_3%20(1)-5.png)
+<p float="left">
+  <img src="screens/Gauri%20Jagtap_3%20(1)-1.png" width="300"/>
+  <img src="screens/Gauri%20Jagtap_3%20(1)-2.png" width="300"/>
+  <img src="screens/Gauri%20Jagtap_3%20(1)-3.png" width="300"/>
+  <img src="screens/Gauri%20Jagtap_3%20(1)-4.png" width="300"/>
+  <img src="screens/Gauri%20Jagtap_3%20(1)-5.png" width="300"/>
+</p>
 
 ---
 
@@ -54,11 +56,13 @@ These are the original animation frames used to build the design logic.
 
 These are the mobile mockups showing how the synced comment system works in real-time.
 
-![UI 1](screens/Gauri%20Jagtap_3-1.png)  
-![UI 2](screens/Gauri%20Jagtap_3-2.png)  
-![UI 3](screens/Gauri%20Jagtap_3-3.png)  
-![UI 4](screens/Gauri%20Jagtap_3-4.png)  
-![UI 5](screens/Gauri%20Jagtap_3-5.png)
+<p float="left">
+  <img src="screens/Gauri%20Jagtap_3-1.png" width="220"/>
+  <img src="screens/Gauri%20Jagtap_3-2.png" width="220"/>
+  <img src="screens/Gauri%20Jagtap_3-3.png" width="220"/>
+  <img src="screens/Gauri%20Jagtap_3-4.png" width="220"/>
+  <img src="screens/Gauri%20Jagtap_3-5.png" width="220"/>
+</p>
 
 ---
 
@@ -69,8 +73,10 @@ Two additional screens show the concept of:
 - Smart filters
 - AI-picked reactions
 
-![Smart Filters](screens/Gauri%20Jagtap_3-6.png)  
-![Alternate Mood View](screens/Gauri%20Jagtap_3-7.png)
+<p float="left">
+  <img src="screens/Gauri%20Jagtap_3-6.png" width="240"/>
+  <img src="screens/Gauri%20Jagtap_3-7.png" width="240"/>
+</p>
 
 ---
 
@@ -86,10 +92,10 @@ Two additional screens show the concept of:
 We created two separate prototypes to show both content flow and UI interaction:
 
 - 📱 **Mobile UI Interaction (Vertical Screen with Dynamic Comments)**  
-  👉 [View Vertical UI Prototype]([https://www.figma.com/proto/YOUR_VERTICAL_PROTOTYPE_LINK](https://www.figma.com/proto/vrJyIqP2HhretM1a0C7Clu/Gauri-Jagtap_3?node-id=13-1754&t=xaMqAXUN1VMwVrWI-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1))
+  👉 [View Vertical UI Prototype](https://www.figma.com/proto/vrJyIqP2HhretM1a0C7Clu/Gauri-Jagtap_3?node-id=13-1754&t=xaMqAXUN1VMwVrWI-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 - 🎞️ **Storyboard Prototype (Horizontal Video Flow)**  
-  👉 [View Horizontal Video Prototype]([https://www.figma.com/proto/YOUR_HORIZONTAL_PROTOTYPE_LINK](https://www.figma.com/proto/vrJyIqP2HhretM1a0C7Clu/Gauri-Jagtap_3?node-id=13-2281&p=f&t=31onWCvTqoXLZKYx-1&scaling=scale-down&content-scaling=fixed&page-id=13%3A2268))
+  👉 [View Horizontal Video Prototype](https://www.figma.com/proto/vrJyIqP2HhretM1a0C7Clu/Gauri-Jagtap_3?node-id=13-2281&p=f&t=31onWCvTqoXLZKYx-1&scaling=scale-down&content-scaling=fixed&page-id=13%3A2268)
 
 Both versions work together to represent how smart comments adapt in real-time — one shows **scene-by-scene story progression**, the other shows **actual UI interaction** in a realistic YouTube-like environment.
 
