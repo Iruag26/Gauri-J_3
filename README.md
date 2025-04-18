@@ -57,11 +57,11 @@ These are the original animation frames used to build the design logic.
 These are the mobile mockups showing how the synced comment system works in real-time.
 
 <p float="left">
-  <img src="screens/Gauri%20Jagtap_3-1.png" width="220"/>
-  <img src="screens/Gauri%20Jagtap_3-2.png" width="220"/>
-  <img src="screens/Gauri%20Jagtap_3-3.png" width="220"/>
-  <img src="screens/Gauri%20Jagtap_3-4.png" width="220"/>
-  <img src="screens/Gauri%20Jagtap_3-5.png" width="220"/>
+  <img src="screens/Gauri%20Jagtap_3-1.png" width="400"/>
+  <img src="screens/Gauri%20Jagtap_3-2.png" width="400"/>
+  <img src="screens/Gauri%20Jagtap_3-3.png" width="400"/>
+  <img src="screens/Gauri%20Jagtap_3-4.png" width="400"/>
+  <img src="screens/Gauri%20Jagtap_3-5.png" width="400"/>
 </p>
 
 ---
