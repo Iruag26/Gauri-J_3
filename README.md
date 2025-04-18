@@ -40,7 +40,7 @@ This approach transforms comments from background noise into **emotionally reson
 
 ## 🖼 Storyboard Frames (Reference Video)
 
-These are the original animation frames used to build the design logic.
+This is how the most relevant comment picked out by the AI would be seen on full horizontal screen.
 
 <p float="left">
   <img src="screens/Gauri%20Jagtap_3%20(1)-1.png" width="300"/>
@@ -54,7 +54,7 @@ These are the original animation frames used to build the design logic.
 
 ## 📱 Dynamic Comment UI Screens
 
-These are the mobile mockups showing how the synced comment system works in real-time.
+These are the mobile mockups showing how the synced comment system works in real-time, the most relevant comments will be shown in the comment box itself with the overall mood captured in that particular scene.
 
 <p float="left">
   <img src="screens/Gauri%20Jagtap_3-1.png" width="400"/>
@@ -69,9 +69,10 @@ These are the mobile mockups showing how the synced comment system works in real
 ## 🧠 Smart Features Preview
 
 Two additional screens show the concept of:
-- Mood-tagged comments
+- Mood-tagged comments in timeline
 - Smart filters
 - AI-picked reactions
+- In this image yellow shows optimistic comments and blue shows gloomy comments.
 
 <p float="left">
   <img src="screens/Gauri%20Jagtap_3-6.png" width="240"/>
